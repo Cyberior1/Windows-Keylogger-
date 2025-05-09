@@ -1,6 +1,7 @@
 This is a small keylogger 🗝️ for windows that send data to your telegram bot 
 
 PROCESSOR:
+
 1.Make a bot on telegram by using botfather.
 2.Copy the token id of bot.
 
